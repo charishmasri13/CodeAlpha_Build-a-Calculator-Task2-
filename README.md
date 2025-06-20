@@ -31,10 +31,7 @@ The calculator performs standard arithmetic operations such as addition, subtrac
 
 ## 🚀 How to Run
 
-1. **Clone or download** the repository:
-   ```bash
-   git clone https://github.com/yourusername/task2-calculator.git
-   cd task2-calculator
+
 Open the project:
 
 Double-click index.html
